@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">RoomDatabase_Demo</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="add_btn_txt">ADD</string>
+    <string name="et_FirstName_txt">Enter your first name</string>
+    <string name="et_LastName_txt">Enter your last name</string>
+    <string name="et_Age_txt">enter your age</string>
+    <string name="rv_item_first_name">First name</string>
+    <string name="rv_item_last_name">Last name</string>
+    <string name="rv_item_age">23</string>
+</resources>
