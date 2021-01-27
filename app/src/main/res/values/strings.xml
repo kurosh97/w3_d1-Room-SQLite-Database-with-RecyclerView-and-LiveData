@@ -9,4 +9,8 @@
     <string name="rv_item_first_name">First name</string>
     <string name="rv_item_last_name">Last name</string>
     <string name="rv_item_age">23</string>
+    <string name="tv_first_name">First name</string>
+    <string name="tv_last_name">Last name</string>
+    <string name="tv_age">Age</string>
+    <string name="tv_id">1</string>
 </resources>

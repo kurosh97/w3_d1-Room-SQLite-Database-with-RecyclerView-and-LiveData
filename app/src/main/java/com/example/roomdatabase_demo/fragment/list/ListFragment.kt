@@ -37,7 +37,7 @@ class ListFragment : Fragment() {
 
         //UserViewModel
         mUserViewModel = ViewModelProvider(this).get(UserViewModel::class.java)
-        mUserViewModel.readAllData.observe(viewLifecycleOwner, Observer(adapter::setData))
+        mUserViewModel.readAllData.observe(viewLifecycleOwner, Observer(adapter::submitList))
 
 
         view.floatingActionButton.setOnClickListener {
